@@ -1,2 +1,2 @@
 # This is my Demo Repository
-  Author-Lakhan solanke
+  Author-Lakhan (learn github)
